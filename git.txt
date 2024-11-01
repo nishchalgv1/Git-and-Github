@@ -1,0 +1,23 @@
+Imagine you are writing a Poetry and you don't like the current version of your poetry. So you create a first draft of it. After that you stand up and relaxed your mind and came back with new 
+lines and new ideas for your poetry. 
+Now here you have a couple of options --- either you can write directly in the original file or the draft.
+What you would want you won't like to make changes in the original one, rather you would choose to go for creating a new draft file for your poetry that is going to contain your current original version of the poetry as well as it will have
+new lines which you came up with. 
+This way you can go on and keep creating multiple drafts of the poetry until you get the desired one or atleast you feel like you have written something
+worthwhile. 
+One drawback of going with this is that you will have to keep track of all of your drafts and files and that is not what you want.
+
+Git is a version control software that can help you in tracking all those files and the changes you have constantly been making into your original file.
+You can make a particular change in the file and then commit it (save it) and you can do multiple commits (snapshots) without being worried about
+having to keep multiple files. 
+Later on you can track all the history of all the commits or the changes you have made in a single click or in a single place.
+
+For every commit you make, there is a unique identifier or the hash associated with it with which you can see all your past commits.
+
+GitHub is a web service where you can sign up and have an account and do Git things on a server, on a website.
+GitHub kind of runs the Git software behind the scenes. Some people call it social coding.
+
+A README is a special kind of file that goes in your repository that says, this repository is a repository for poems about rainbows.
+
+Repository is the repository of the stuff.
+
