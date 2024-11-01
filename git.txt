@@ -21,3 +21,11 @@ A README is a special kind of file that goes in your repository that says, this 
 
 Repository is the repository of the stuff.
 
+Summary
+------------------
+Git is a version control software.
+GitHub is a website where you can do projects that have version control on them .
+You can make a repository where you can add files to the repository then you can make changes to those files by making commits and those commits allow you to browse the history and each of those commits has a unique identifier for it
+
+
+
