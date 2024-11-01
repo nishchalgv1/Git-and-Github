@@ -28,5 +28,6 @@ GitHub is a website where you can do projects that have version control on them 
 You can make a repository where you can add files to the repository then you can make changes to those files by making commits and those commits allow you to browse the history and each of those commits has a unique identifier for it
 
 Branching, Pull Request and Merging
+ A pull request is saying, take some changes from a particular branch and bring them into another branch 
 
 
